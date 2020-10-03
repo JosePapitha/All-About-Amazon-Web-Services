@@ -1,4 +1,16 @@
-Amazon Web Services
+# Amazon Web Services
+All about Amazon Web Services
+
+<h1 align="center">
+  <br>
+  <img src="logo.png" alt="logo"/>
+</h1>
+
+## Purpose
+*To learn all about Cloud computing
+*To achieve AWS Certified Solutions Architect Associate 
+
+### Streams
 
  1. Basics of Cloud computing
  2. Clarification of IAAS, SAAS and PAAS

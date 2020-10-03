@@ -1,12 +1,11 @@
-# Amazon Web Services
 <p align="center">
-  <img src="aws.png" alt="logo"/>
+  <img src="aws .png" alt="logo"/>
 </p>
 
 
-## Purpose
-*To learn all about Cloud computing
-*To achieve AWS Certified Solutions Architect Associate 
+# Amazon Web Services
+* To learn all about Cloud computing
+* To achieve AWS Certified Solutions Architect Associate 
 
 ### Streams
 

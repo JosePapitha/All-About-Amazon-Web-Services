@@ -1,10 +1,8 @@
 # Amazon Web Services
-All about Amazon Web Services
+<p align="center">
+  <img src="aws.png" alt="logo"/>
+</p>
 
-<h1 align="center">
-  <br>
-  <img src="logo.png" alt="logo"/>
-</h1>
 
 ## Purpose
 *To learn all about Cloud computing

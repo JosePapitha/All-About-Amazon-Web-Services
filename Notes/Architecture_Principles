@@ -1,0 +1,31 @@
+Principles :
+
+Reliability -
+	1. Test recovery procedures (Diaster recovery)
+	2. Automatically recover from failure
+	3. Scale horizontally to increase aggregate system availability
+	4. Frequent automation updates
+	
+Performance efficiency -
+	1. Without provisioning new datacenters, Going live in minutes
+	2. Use serverless architecture
+	3. Meeting requirements with technology
+	
+Security - 
+	1. Security at all layers
+	2. Automating best practices
+	3. Protecting data with encryption
+	4. Security events (Diaster recovery, Incident response)
+
+Cost Optimization -
+	1. Adopting consumption model
+	2. Use managed services to reduce cost
+	
+Operational Excellence - 
+	1. Annotated documents
+	2. Reversible changes
+	3. Anticipating failure
+	4. Learning from operational failures
+	
+	
+	
